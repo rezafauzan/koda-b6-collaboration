@@ -1,6 +1,6 @@
 import { reamurToKelvin } from "./reamur-to-kelvin.js"
 import { reamurToCelcius } from "./reamur-to-celcius.js"
-import { reamurToFahrenheit } from "./reamur-to-fahrenhei.js"
+import { reamurToFahrenheit } from "./reamur-to-fahrenheit.js"
 
 export const reamur = (temp) => { 
     return{
